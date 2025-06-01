@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Дзен канал: Автостатьи</title>
+    <link>https://vladzc98.github.io/zen-articles/</link>
+    <description>Автоматически сгенерированные статьи через Make + OpenAI</description>
+    <language>ru</language>
+
+    <item>
+      <title>Как автоматизировать маркетинг через нейросети</title>
+      <link>https://vladzc98.github.io/zen-articles/posts/marketing-guide.html</link>
+      <guid>https://vladzc98.github.io/zen-articles/posts/marketing-guide.html</guid>
+      <pubDate>Sun, 01 Jun 2025 12:00:00 +0300</pubDate>
+      <description><![CDATA[
+        В этой статье расскажем, как использовать нейросети и Make.com для маркетинга. Примеры, шаблоны и практические фишки.
+      ]]></description>
+    </item>
+
+    <!-- Можно дублировать блок <item> для каждой новой статьи -->
+  </channel>
+</rss>
